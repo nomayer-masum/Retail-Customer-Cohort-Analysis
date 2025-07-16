@@ -1,41 +1,21 @@
-# Retail-Customer-Cohort-Analysis
-# Sales Dashboard Analysis
+es, you can prevent others from editing your Google Docs by adjusting the sharing settings. Here’s how to do it:
 
-This repository contains an interactive Power BI and Excel dashboard for visualizing monthly sales performance, customer trends, and product-wise analysis.
+Open your Google Doc.
 
-## 🚀 Features
+Click the “Share” button (top-right).
 
-- Monthly and yearly sales trends
-- Top selling products analysis
-- Customer segment breakdown
+Under “Share with people and groups,” add the emails of people you want to share with (if any).
 
-## 📸 Screenshots
+Next to their email, click the dropdown and select “Viewer” or “Commenter” — this prevents them from editing.
 
-![Dashboard Screenshot](images/dashboard.png)
+If you share the link, click “Change to anyone with the link” and select “Viewer” or “Commenter” instead of Editor.
 
-## 🛠️ Installation
+This way, others can view or comment but cannot edit your document.
 
-No installation needed. Download the `.pbix` and `.xlsx` files and open them using Power BI Desktop and MS Excel.
+If you want to completely lock it for yourself (so you can’t accidentally edit), Google Docs doesn’t have a built-in “lock” for the owner, but you could:
 
-## 💻 Usage
+Make a copy and keep it untouched as backup.
 
-- Open `SalesDashboard.pbix` in Power BI Desktop to interact with the visuals.
-- Refer to `SalesData.xlsx` for raw data.
+Use Version History to restore if accidental edits happen.
 
-## 📚 Technologies Used
-
-- Microsoft Power BI
-- Microsoft Excel
-
-## ✍️ Author
-
-- **Masum Al Mahmud Nomayer**
-- [LinkedIn](your-link)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please raise an issue or submit a pull request for improvements.
-
-## 📜 License
-
-This project is licensed under the MIT License.
+Would you like me to guide you step-by-step or suggest add-ons that can help?
