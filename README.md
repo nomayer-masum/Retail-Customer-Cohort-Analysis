@@ -68,7 +68,7 @@ Complex DAX measures are at the heart of this report, enabling dynamic calculati
 ![Retail Customer Cohort Analysis Report Overview](images/Retail Customer Cohort Analysis Report.jpg)
 
 ### KPI Summary (Example from related work)
-![KPI Summary Dashboard](Retail Customer Cohort Analysis Report.png)
+![KPI Summary Dashboard](images/Practicing_DAX_in_KPI_image.png)
 
 *(You can add more specific screenshots if your report has multiple pages.)*
 
