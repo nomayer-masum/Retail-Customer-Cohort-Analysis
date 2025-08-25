@@ -13,6 +13,5 @@ This project uses **Power BI** to analyze customer retention, churn, and cohort 
 ## Project Details
 - **Tool Used**: Power BI
 - **Analysis Focus**: Long-term customer behavior and retention strategy
-- **Live Link**: https://tinyurl.com/mvdhmvkj
-
+- **Live Link**: https://tinyurl.com/5xpey398
 
